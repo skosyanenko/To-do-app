@@ -1,4 +1,4 @@
-# React Frontend Template
+# To Do App
 
 ![](https://img.shields.io/badge/version-1.0.0-blue)
 ![](https://img.shields.io/badge/react-17.0.2-inactive)
