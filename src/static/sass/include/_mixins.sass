@@ -1,0 +1,6 @@
+@mixin webfont($font-family, $path, $font-weight, $font-style)
+  @font-face
+    font-family: $font-family
+    src: url($path+'.eot'), url($path+'.eot?#iefix') format('embedded-opentype'), url($path+'.woff2') format('woff2'), url($path+'.woff') format('woff'), url($path+'.ttf') format('truetype'), url($path+'.svg') format('svg')
+    font-weight: $font-weight
+    font-style: $font-style
